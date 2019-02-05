@@ -1,0 +1,117 @@
+body {
+    background: url(images/pier-674722_1920.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: #fff !important;
+    letter-spacing: 30px;
+    text-shadow: -2px 3px 5px #000000;
+    font-size: 70px !important;
+    margin-top: 200px !important;
+}
+
+a {
+    transition: 0.3s;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: #E9E9E9 !important;
+    font-size: 30px;
+}
+
+h2 {
+    color: #E9E9E9 !important;
+    text-shadow: -2px 3px 5px #000000;
+    letter-spacing: 10px;
+    font-weight: 400 !important;
+}
+
+.nav-item {
+    color: #fff;
+    text-shadow: -2px 3px 5px #000000;
+    margin-left: 20px;
+}
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+    bottom: 260px;
+}
+
+.symbol {
+    width: 150px;
+    height: 150px;
+}
+
+.caption {
+    margin-top: 20px;
+    display: block;
+    color: #3D3D3D;
+    font-size: 24px;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+.arrow {
+    margin-top: 150px;
+}
+
+/*ABOUT*/
+.about {
+    color: #316A86;
+    padding-top: 40px;
+    padding-left: 50px;
+    font-size: 60px;
+}
+
+.about-text {
+    padding-left: 50px;
+    font-size: 24px;
+    color: #313131;
+    font-weight: 500;
+}
+
+ul.no_bullet {
+    list-style-type: none;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+li.hex {
+    background: url(icons/Symbol\ 9\ –\ 21.png) no-repeat left top;
+    padding-left: 60px;
+    font-size: 40px;
+    color: #000;
+    font-weight: 500;
+    position: relative;
+}
+
+.right {
+    position: absolute;
+    left: 300px;
+    bottom: 80px;
+}
+
+/*DECORATIONS*/
+
+.first-block {
+    height: 300px;
+    width: 100% !important;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.computer-background {
+    background: url(images/computer-768696_1920.jpg) no-repeat center fixed;
+    background-size: cover;
+    position: relative;
+    bottom: 275px;
+    height: 550px;
+}
